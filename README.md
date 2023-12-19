@@ -1,0 +1,1 @@
+# Project for practicing session authentication in golang
